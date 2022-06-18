@@ -11,7 +11,7 @@ Simple employee registration software using Django, Django REST Framework and Re
 * run [pipenv shell]
 * run [pipenv install]
 * cd react_front
-* run [npm i]
+* run [npm install]
 * run [npm run build]
 
 ## How to run
