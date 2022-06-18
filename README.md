@@ -7,7 +7,7 @@ Simple employee registration software using Django, Django REST Framework and Re
 
 ## How to install
 * git clone https://github.com/SargisKirakosyan/django_react_employee_registration.git
-* cd django_back
+* cd django_react_employee_registration
 * run [pipenv shell]
 * run [pipenv install]
 * cd react_front
